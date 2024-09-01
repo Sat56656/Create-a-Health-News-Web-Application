@@ -1,0 +1,22 @@
+.bookmarks {
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .bookmark-item {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    width: 80%;
+    border-radius: 8px;
+  }
+  
+  .bookmark-item h2 {
+    margin: 0 0 10px;
+  }
+  
+  .bookmark-item a {
+    color: #1e90ff;
+  }
+  
